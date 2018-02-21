@@ -44,6 +44,6 @@ function parallax(){
         'top': -(s*t) + 'px'
     })
   }
-  parallaxBg('body',.3);
+  parallaxBg('body',.2);
   parallaxFront('h1',.5);
 }
