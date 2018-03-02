@@ -6,6 +6,9 @@ body {
     background-repeat: no-repeat;
     background-size: auto 280vh;
 }
+.facebook_comentar {
+    background-color: #fff;
+}
 img {
     max-width: 100%;
     width: 290px;
