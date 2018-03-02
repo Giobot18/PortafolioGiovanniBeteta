@@ -10,7 +10,7 @@ img {
     max-width: 100%;
     width: 290px;
 }
-.mapa {
+#mapa {
     width: 250px;
     height: 230px;
     border: solid;
