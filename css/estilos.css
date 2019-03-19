@@ -992,6 +992,7 @@ dd {
 #bienvenido {
     animation-duration: 3s;
     animation-name: deslizar;
+    margin-bottom: 1rem !important;
 }
 #soy {
     animation-duration: 3s;
