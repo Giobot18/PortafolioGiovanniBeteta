@@ -997,6 +997,7 @@ dd {
 #soy {
     animation-duration: 3s;
     animation-name: deslizar;
+    margin-bottom: 9rem;
 }
 #developer {
     animation-duration: 3s;
