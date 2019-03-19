@@ -7,7 +7,7 @@ body {
     background-size: auto 280vh;
 }
 .facebook_comentar {
-    background-color: #fff;
+    background-color: #FFCA00;
 }
 img {
     max-width: 100%;
@@ -80,7 +80,7 @@ img {
 
 .quien-soy {
     background: #757375;
-    color: #fff;
+    text-decoration-color: #757375;
     box-shadow: 1px 1px 15px #666;
     margin-top: -8em;
     margin-bottom: .2em;
@@ -89,7 +89,10 @@ img {
     text-align: center;
 }
 #quien-soy {
-    background-color: #1B2119B3;
+    background-color: #FFF;
+}
+.btn-danger {
+    background-color: #FF4234;
 }
 .btn-secondary {
     color: #fff;
@@ -324,7 +327,7 @@ dd {
 }
 @media (min-width: 700px) {
     body {
-        background: url(../images/fondo_inicio.jpg);
+        background-color: #FFCA00;
         background-repeat: no-repeat;
         background-size: auto 165vh;
     }
