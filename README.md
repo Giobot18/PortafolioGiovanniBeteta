@@ -1,2 +1,0 @@
-# PortafolioGiovanniBeteta
-Portafolio Giovanni Beteta
